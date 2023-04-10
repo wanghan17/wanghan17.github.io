@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-04-10T08:31:23.779Z</updated>
+  <updated>2023-04-10T08:42:04.031Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://example.com/2023/04/08/image/"/>
     <id>http://example.com/2023/04/08/image/</id>
     <published>2023-04-08T08:40:15.000Z</published>
-    <updated>2023-04-10T08:31:23.779Z</updated>
+    <updated>2023-04-10T08:42:04.031Z</updated>
     
     
       
@@ -48,7 +48,7 @@
     <link href="http://example.com/2023/04/08/blog%E6%90%AD%E5%BB%BA/"/>
     <id>http://example.com/2023/04/08/blog%E6%90%AD%E5%BB%BA/</id>
     <published>2023-04-07T16:00:00.000Z</published>
-    <updated>2023-04-10T08:31:50.726Z</updated>
+    <updated>2023-04-10T08:42:00.490Z</updated>
     
     
     <summary type="html">&lt;p&gt;拟定方案：node.js+github.io+herox&lt;/p&gt;
