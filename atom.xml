@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-04-08T09:52:58.050Z</updated>
+  <updated>2023-04-10T08:07:40.252Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://example.com/2023/04/08/image/"/>
     <id>http://example.com/2023/04/08/image/</id>
     <published>2023-04-08T08:40:15.000Z</published>
-    <updated>2023-04-08T09:52:58.050Z</updated>
+    <updated>2023-04-10T08:07:40.252Z</updated>
     
     
       
@@ -34,6 +34,12 @@
     
     
     
+    <category term="工具记录" scheme="http://example.com/categories/%E5%B7%A5%E5%85%B7%E8%AE%B0%E5%BD%95/"/>
+    
+    
+    <category term="工具" scheme="http://example.com/tags/%E5%B7%A5%E5%85%B7/"/>
+    
+    <category term="web" scheme="http://example.com/tags/web/"/>
     
   </entry>
   
@@ -42,7 +48,7 @@
     <link href="http://example.com/2023/04/08/blog%E6%90%AD%E5%BB%BA/"/>
     <id>http://example.com/2023/04/08/blog%E6%90%AD%E5%BB%BA/</id>
     <published>2023-04-07T16:00:00.000Z</published>
-    <updated>2023-04-10T02:30:11.950Z</updated>
+    <updated>2023-04-10T08:07:35.427Z</updated>
     
     
     <summary type="html">&lt;p&gt;拟定方案：node.js+github.io+herox&lt;/p&gt;
