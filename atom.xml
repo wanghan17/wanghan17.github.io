@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-04-10T08:42:04.031Z</updated>
+  <updated>2023-04-10T09:10:41.623Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,38 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>image</title>
-    <link href="http://example.com/2023/04/08/image/"/>
-    <id>http://example.com/2023/04/08/image/</id>
-    <published>2023-04-08T08:40:15.000Z</published>
-    <updated>2023-04-10T08:42:04.031Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;&lt;img</summary>
-        
-      
-    
-    
-    
-    <category term="工具记录" scheme="http://example.com/categories/%E5%B7%A5%E5%85%B7%E8%AE%B0%E5%BD%95/"/>
-    
-    
-    <category term="工具" scheme="http://example.com/tags/%E5%B7%A5%E5%85%B7/"/>
-    
-    <category term="web" scheme="http://example.com/tags/web/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>个人blog搭建</title>
+    <title>个人博客搭建</title>
     <link href="http://example.com/2023/04/08/blog%E6%90%AD%E5%BB%BA/"/>
     <id>http://example.com/2023/04/08/blog%E6%90%AD%E5%BB%BA/</id>
     <published>2023-04-07T16:00:00.000Z</published>
-    <updated>2023-04-10T08:42:00.490Z</updated>
+    <updated>2023-04-10T09:10:41.623Z</updated>
     
     
     <summary type="html">&lt;p&gt;拟定方案：node.js+github.io+herox&lt;/p&gt;
@@ -62,6 +35,135 @@
     <category term="工具" scheme="http://example.com/tags/%E5%B7%A5%E5%85%B7/"/>
     
     <category term="web" scheme="http://example.com/tags/web/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Game Development</title>
+    <link href="http://example.com/2023/04/08/gameDev/"/>
+    <id>http://example.com/2023/04/08/gameDev/</id>
+    <published>2023-04-07T16:00:00.000Z</published>
+    <updated>2023-04-10T09:14:29.853Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;引擎介绍&quot;&gt;&lt;a href=&quot;#引擎介绍&quot; class=&quot;headerlink&quot; title=&quot;引擎介绍&quot;&gt;&lt;/a&gt;引擎介绍&lt;/h2&gt;&lt;p&gt;游戏开发引擎是一种软件开发工具，用于创建电子游戏。目前市面上有很多种游戏开发引擎，比如Unity、Unreal</summary>
+        
+      
+    
+    
+    
+    <category term="游戏开发" scheme="http://example.com/categories/%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/"/>
+    
+    
+    <category term="游戏" scheme="http://example.com/tags/%E6%B8%B8%E6%88%8F/"/>
+    
+    <category term="code" scheme="http://example.com/tags/code/"/>
+    
+    <category term="design" scheme="http://example.com/tags/design/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>卧龙苍天陨落</title>
+    <link href="http://example.com/2023/04/08/%E5%8D%A7%E9%BE%99%E8%8B%8D%E5%A4%A9%E9%99%A8%E8%90%BD/"/>
+    <id>http://example.com/2023/04/08/%E5%8D%A7%E9%BE%99%E8%8B%8D%E5%A4%A9%E9%99%A8%E8%90%BD/</id>
+    <published>2023-04-07T16:00:00.000Z</published>
+    <updated>2023-04-10T09:10:06.110Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;简介&quot;&gt;&lt;a href=&quot;#简介&quot; class=&quot;headerlink&quot; title=&quot;简介&quot;&gt;&lt;/a&gt;简介&lt;/h2&gt;&lt;p&gt;《卧龙：苍天陨落》是由光荣特库摩名下工作室Team NINJA开发的一款动作角色扮演游戏，于2023年3月3日发售。</summary>
+        
+      
+    
+    
+    
+    <category term="games" scheme="http://example.com/categories/games/"/>
+    
+    
+    <category term="game played" scheme="http://example.com/tags/game-played/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>刺客信条</title>
+    <link href="http://example.com/2023/04/08/%E5%88%BA%E5%AE%A2%E4%BF%A1%E6%9D%A1/"/>
+    <id>http://example.com/2023/04/08/%E5%88%BA%E5%AE%A2%E4%BF%A1%E6%9D%A1/</id>
+    <published>2023-04-07T16:00:00.000Z</published>
+    <updated>2023-04-10T09:10:50.403Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;简介&quot;&gt;&lt;a href=&quot;#简介&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="games" scheme="http://example.com/categories/games/"/>
+    
+    
+    <category term="game played" scheme="http://example.com/tags/game-played/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>艾尔登法环</title>
+    <link href="http://example.com/2023/04/08/%E8%89%BE%E5%B0%94%E7%99%BB%E6%B3%95%E7%8E%AF/"/>
+    <id>http://example.com/2023/04/08/%E8%89%BE%E5%B0%94%E7%99%BB%E6%B3%95%E7%8E%AF/</id>
+    <published>2023-04-07T16:00:00.000Z</published>
+    <updated>2023-04-10T09:09:05.718Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;简介&quot;&gt;&lt;a href=&quot;#简介&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="games" scheme="http://example.com/categories/games/"/>
+    
+    
+    <category term="game played" scheme="http://example.com/tags/game-played/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>只狼</title>
+    <link href="http://example.com/2023/04/08/%E5%8F%AA%E7%8B%BC/"/>
+    <id>http://example.com/2023/04/08/%E5%8F%AA%E7%8B%BC/</id>
+    <published>2023-04-07T16:00:00.000Z</published>
+    <updated>2023-04-10T09:05:37.908Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;简介&quot;&gt;&lt;a href=&quot;#简介&quot; class=&quot;headerlink&quot; title=&quot;简介&quot;&gt;&lt;/a&gt;简介&lt;/h2&gt;&lt;p&gt;《只狼：影逝二度》是一款由 From Software</summary>
+        
+      
+    
+    
+    
+    <category term="games" scheme="http://example.com/categories/games/"/>
+    
+    
+    <category term="game played" scheme="http://example.com/tags/game-played/"/>
     
   </entry>
   
